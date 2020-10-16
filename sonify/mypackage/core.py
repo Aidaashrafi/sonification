@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 16 17:52:46 2020
-
-@author: Aida
-"""
 import io
 from time import sleep
 
