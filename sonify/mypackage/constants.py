@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 16 17:58:06 2020
-
-@author: Aida
-"""
 NOTES = [
     ['C'], ['C#', 'Db'], ['D'], ['D#', 'Eb'], ['E'], ['F'], ['F#', 'Gb'],
     ['G'], ['G#', 'Ab'], ['A'], ['A#', 'Bb'], ['B']
