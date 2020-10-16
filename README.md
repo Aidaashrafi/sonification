@@ -1,5 +1,5 @@
 # sonification
-Code from https://github.com/erinspace/sonify
+Code from https://github.com/erinspace/sonify/tree/master/examples
 
 Install through pip: 
 •	pygame
