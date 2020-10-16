@@ -1,3 +1,11 @@
 # sonification
 Code from https://github.com/erinspace/sonify
-Install pygame, midiutil and pretty-midi
+
+Install through pip: 
+pygame
+midiutil
+pretty-midi
+astropy
+matplotlib
+numpy
+scipy
